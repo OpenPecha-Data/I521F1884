@@ -1,0 +1,26 @@
+id: I521F1884
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:15:12.034487+00:00
+last_modified: 2022-12-14 18:15:12.034492+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-059-007
+  eft-text-version: 1.2.5 2020
+  title: Toh_164-The_Questions_of_Ratnacandra-v2
+bases:
+  4D73:
+    source_metadata: null
+    order: 1
+    base_file: 4D73.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
